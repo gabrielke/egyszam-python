@@ -1,0 +1,2 @@
+# egyszam-python
+Egyszámjáték pythonban
