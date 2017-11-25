@@ -1,4 +1,5 @@
 fajl=open("egyszamjatek.txt", "r")
+#sdkjfhsdkfjh
 jatekos=[]
 for sor in fajl:
     rekord=sor.rstrip().split()
